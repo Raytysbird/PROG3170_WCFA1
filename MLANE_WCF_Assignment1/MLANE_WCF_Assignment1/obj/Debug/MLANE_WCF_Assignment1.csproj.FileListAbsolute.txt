@@ -1,0 +1,7 @@
+C:\Users\Mlane\OneDrive\Desktop\School Fall 2022\PROG3170 Programming Distributed Applications\Assignments\MLANE_WCF_Assignment1\MLANE_WCF_Assignment1\bin\MLANE_WCF_Assignment1.dll.config
+C:\Users\Mlane\OneDrive\Desktop\School Fall 2022\PROG3170 Programming Distributed Applications\Assignments\MLANE_WCF_Assignment1\MLANE_WCF_Assignment1\bin\MLANE_WCF_Assignment1.dll
+C:\Users\Mlane\OneDrive\Desktop\School Fall 2022\PROG3170 Programming Distributed Applications\Assignments\MLANE_WCF_Assignment1\MLANE_WCF_Assignment1\bin\MLANE_WCF_Assignment1.pdb
+C:\Users\Mlane\OneDrive\Desktop\School Fall 2022\PROG3170 Programming Distributed Applications\Assignments\MLANE_WCF_Assignment1\MLANE_WCF_Assignment1\obj\Debug\MLANE_WCF_Assignment1.csproj.AssemblyReference.cache
+C:\Users\Mlane\OneDrive\Desktop\School Fall 2022\PROG3170 Programming Distributed Applications\Assignments\MLANE_WCF_Assignment1\MLANE_WCF_Assignment1\obj\Debug\MLANE_WCF_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Mlane\OneDrive\Desktop\School Fall 2022\PROG3170 Programming Distributed Applications\Assignments\MLANE_WCF_Assignment1\MLANE_WCF_Assignment1\obj\Debug\MLANE_WCF_Assignment1.dll
+C:\Users\Mlane\OneDrive\Desktop\School Fall 2022\PROG3170 Programming Distributed Applications\Assignments\MLANE_WCF_Assignment1\MLANE_WCF_Assignment1\obj\Debug\MLANE_WCF_Assignment1.pdb
